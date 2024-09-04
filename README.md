@@ -7,12 +7,11 @@
    - Дискриминатор D_Y: определяет, является ли изображение из домена Y реальным или сгенерированным.
    - Дискриминатор D_X: определяет, является ли изображение из домена X реальным или сгенерированным.
 
-примеры преобразования изображения после 12 часов обучения исползуя rtx 4060
-оригинал                                                                        
-![image](https://github.com/user-attachments/assets/1cff91c9-22ea-4c90-9cac-2f9b4f4a9e3c)
-результат 
-![image](https://github.com/user-attachments/assets/7d640fcb-05b3-407e-bce5-e77ffe995bea)
+пример преобразования изображения после 12 часов обучения исползуя rtx 4060                                                                      
 оригинал 
+
 ![image](https://github.com/user-attachments/assets/d46c8deb-d372-49a4-b333-6bd3c71bc162)
+
 результат 
+
 ![image](https://github.com/user-attachments/assets/79611438-dea7-479b-be33-9c20e8355ab4)
